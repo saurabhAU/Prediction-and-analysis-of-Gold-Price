@@ -1,4 +1,4 @@
-![Gold Price Prediction](C:\Users\user\OneDrive\Desktop/gold-coins-with-stock-chart.png)
+![Gold Price Prediction](C:/Users\user/OneDrive/Desktop/gold-coins-with-stock-chart.png)
 
 
 # Prediction-and-analysis-of-Gold-Price
