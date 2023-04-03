@@ -1,3 +1,6 @@
+![Gold Price Prediction](C:\Users\user\OneDrive\Desktop/gold-coins-with-stock-chart.png)
+
+
 # Prediction-and-analysis-of-Gold-Price
 This repository contains code for predicting gold prices using time series modeling. The dataset includes historical gold prices along with other financial data such as high, low, opening, closing, volume, and change.
 
